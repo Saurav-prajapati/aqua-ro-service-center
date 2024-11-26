@@ -3736,3 +3736,9 @@ ul.quick_links li a:hover {
   .my-float {
 	margin-top: 16px;
   }
+
+  @media only screen and (max-width: 600px) {
+	.site-logo h2{
+		font-size: 20px;
+	}
+  }
